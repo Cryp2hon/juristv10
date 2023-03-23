@@ -1,0 +1,47 @@
+
+/* Cormorant */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@700&display=swap');
+
+@font-face {
+    font-family: 'Berlingske Serif';
+    src: local('Berlingske Serif Medium'), local('Berlingske-Serif-Medium'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/BerlingskeSerif-Md.woff2') format('woff2'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/BerlingskeSerif-Md.woff') format('woff'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/BerlingskeSerif-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: 'Proxima Nova Lt';
+    src: local('Proxima Nova Light'), local('ProximaNova-Light'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Light.eot') format('embedded-opentype'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Light.woff2') format('woff2'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Light.woff') format('woff'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bd';
+    src: local('Proxima Nova Black Italic'), local('ProximaNova-BlackIt'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Bold.eot') format('embedded-opentype'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Bold.woff2') format('woff2'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Bold.woff') format('woff'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: local('Proxima Nova Bold Italic'), local('ProximaNova-BoldIt'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Regular.eot') format('embedded-opentype'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Regular.woff2') format('woff2'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Regular.woff') format('woff'),
+        url('https://cryp2hon.github.io/juristv7/Fonts/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style:  normal;
+}
