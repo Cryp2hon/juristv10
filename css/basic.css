@@ -226,7 +226,7 @@ body {
 .main_content-right .offer_image {
   bottom: -100px;
   z-index: 0;
-  right: 95%;
+  right: 85%;
   position: absolute;
   width: 757px;
   height: 900px;
